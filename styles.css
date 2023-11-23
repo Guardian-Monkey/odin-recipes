@@ -15,17 +15,17 @@ body {
     background-color: rgb(208, 178, 144);
 }
 
-h1 {
+.title {
     font-size: 50px;
     text-align: center;
 }
 
-ul {
+.recipes {
     list-style: none;
     padding: 0;
 }
 
-.recipes {
+.recipes-container {
     background-color: rgb(233, 232, 222);
     font-size: 25px;
     text-align: center;
